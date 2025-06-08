@@ -1,0 +1,6 @@
+/* to add on */
+@import "tailwindcss";
+
+.active{
+    color: yellow;
+}
